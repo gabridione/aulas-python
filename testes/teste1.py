@@ -1,0 +1,12 @@
+print("hello world!")
+print("oi eu sou gabriel")
+print(29)
+print(13.10)
+print(False)
+print(1-2)
+
+print("1-2=",1-2)
+print("minha situação de trabalho é",False)
+print("1*\n2*")
+print(f"1-2={1-2} -1-4={-1-4}")
+print(f"eu tenho {2026-2012} anos")
